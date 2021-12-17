@@ -8,7 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Pursuing Post Graduation Program in Software Engineering for Data Science at IIITH **
+- 🔭 Working as a Junior Data Analyst  **
+
+- 🔭 Pursued Post Graduation Program in Software Engineering for Data Science at IIITH **
 
 - 🌱 Working on **Data Science , Machine Learning, Data Engineering, Cloud Computing, Software Engineering and Architecture.**
 
